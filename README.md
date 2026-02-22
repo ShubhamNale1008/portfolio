@@ -1,90 +1,76 @@
-✨ Shubham Nale Portfolio
-<p align="center"> <b>A modern, responsive portfolio website built with HTML, CSS, and JavaScript</b><br> Designed to showcase my skills, projects, and certifications in a clean and elegant way. </p>
-🌐 Live Website
+# ✨ Shubham Nale — Portfolio
 
-🔗 Visit my portfolio:
-(https://shubhamnale1008.github.io/Portfolio/)  
+A modern, responsive portfolio website built with **HTML, CSS, and JavaScript** to showcase my skills, certifications, and developer journey.
 
-🚀 About This Project
+🌐 **Live Website:**  
+(https://shubhamnale1008.github.io/Portfolio/)
 
-This is my personal developer portfolio created to present my:
+---
 
-👨‍💻 Skills and technical knowledge
+## 👋 About
 
-📜 Certifications and achievements
+This portfolio represents my work, technical skills, and continuous learning as an aspiring software developer. It is designed to be clean, fast, and user-friendly, with a focus on simplicity and modern design.
 
-📁 Projects and work
+---
 
-📬 Contact information
+## 🚀 Features
 
-The website focuses on performance, simplicity, and modern UI design.
+- 🌙 Modern dark theme  
+- 📱 Fully responsive design (Mobile, Tablet, Desktop)  
+- ⚡ Fast and lightweight performance  
+- 🎨 Smooth animations and transitions  
+- 🧩 Clean and professional layout  
 
-🎯 Features
+---
 
-✨ Modern dark theme
-📱 Fully responsive design (Mobile, Tablet, Desktop)
-⚡ Fast loading and lightweight
-🎬 Smooth animations and transitions
-🧭 Clean navigation and user experience
-🧩 Simple and easy to customize
+## 🛠️ Technologies Used
 
-🛠️ Built With
-<p> 🔹 HTML5<br> 🔹 CSS3<br> 🔹 JavaScript<br> 🔹 GitHub Pages (Hosting) </p>
-📂 Website Sections
+- 💻 HTML5  
+- 🎨 CSS3  
+- ⚙️ JavaScript  
+- 🌐 GitHub Pages (Hosting)
 
-🏠 Hero Section (Introduction)
+---
 
-👤 About Me
+## 📂 Website Sections
 
-💡 Skills
+- 🏠 Home  
+- 👤 About  
+- 💡 Skills  
+- 📜 Certificates  
+- 📬 Contact  
 
-📜 Certificates
+---
 
-📬 Contact
+## 🎯 Customization
 
-🎨 Customization Guide
+You can easily customize this portfolio:
 
-You can easily personalize this portfolio:
+- ✏️ Edit text and content → `index.html`  
+- 🎨 Change colors and styling → `style.css`  
+- 📜 Add certificates → `certificates/` folder  
+- 📬 Update contact links → `index.html`  
 
-Edit Name and Title
+---
 
-Open index.html and change:
+## 👨‍💻 Author
 
-<h1 class="hero-title">Your Name</h1>
-<p class="hero-subtitle">Your Title</p>
-Add Certificates
+**Shubham Rajendra Nale**  
+Aspiring Software Developer 🚀  
 
-Place images in certificates/ folder
+🔗 GitHub: https://github.com/ShubhamNale1008  
+🌐 Portfolio: (https://shubhamnale1008.github.io/Portfolio/)  
 
-Add them in certificates section in index.html
+---
 
-Change Colors
+## ⭐ License
 
-Open style.css and edit:
+This project is licensed under the MIT License.  
+Free to use, modify, and share.
 
---primary-color: #6366f1;
-📸 Preview
+---
 
-Clean • Modern • Responsive • Professional
+⭐ If you like this portfolio, consider giving it a star on GitHub!
 
-👨‍💻 Author
 
-Shubham Rajendra Nale
 
-💻 Aspiring Software Developer
-
-🚀 Passionate about Technology and Programming
-
-🌱 Currently learning and building projects
-
-📬 Contact
-
-Feel free to connect with me:
-
-GitHub: https://github.com/ShubhamNale1008
-
-Portfolio: (https://shubhamnale1008.github.io/Portfolio/)
-
-⭐ Support
-
-If you like this portfolio, please consider giving it a ⭐ on GitHub!
