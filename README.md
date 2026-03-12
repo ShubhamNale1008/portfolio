@@ -3,7 +3,7 @@
 A modern, responsive portfolio website built with **HTML, CSS, and JavaScript** to showcase my skills, certifications, and developer journey.
 
 🌐 **Live Website:**  
-(https://shubhamnale1008.github.io/Portfolio/)
+(https://shubhamnale1008.github.io/portfolio/)
 
 ---
 
@@ -59,7 +59,7 @@ You can easily customize this portfolio:
 Aspiring Software Developer 🚀  
 
 🔗 GitHub: https://github.com/ShubhamNale1008  
-🌐 Portfolio: (https://shubhamnale1008.github.io/Portfolio/)  
+🌐 Portfolio: (https://shubhamnale1008.github.io/portfolio/)  
 
 ---
 
